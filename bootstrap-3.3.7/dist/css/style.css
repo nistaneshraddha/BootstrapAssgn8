@@ -1,0 +1,61 @@
+.navbar-default {
+    background-color: #65bdb5;
+    border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-brand {
+    color: #000;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #65bdb5;
+}
+
+.collapse navbar-collapse {
+    right: top;
+}
+
+.input-group {
+    margin-top: 10px;
+}
+
+.navbar-nav {
+    margin-left: 60px;
+    margin-top: -55px;
+}
+
+#footerclass {
+    margin: auto;
+}
+
+.well-lg {
+    background-color: #d0cccc;
+}
+
+.btn-lg {
+    margin-top: 10px;
+}
+
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+    width: 50%;
+    margin: auto;
+}
+
+.carousel-inner {
+    margin-bottom: 10px;
+}
+
+.panel-default>.panel-heading {
+    background-color: #009688;
+}
+
+.collapsil {
+    background-color: #bddedb;
+}
